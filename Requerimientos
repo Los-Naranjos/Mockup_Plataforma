@@ -1,0 +1,32 @@
+requisitos funcionales y  no funcionales
+
+Requerimientos funcionales.
+RF1. Registrar reservas de clientes (de manera digital).
+RF2. Verificar disponibilidad de mesas.
+RF3. Registrar lista de espera y ordenarla por llegada.
+RF4. Asignar mesas a clientes con o sin reserva.
+RF5. Asignar mozo por mesa automáticamente o manualmente.
+RF6. Gestionar el menú digital (visualización por cliente y edición por administrador).
+RF7. Tomar pedidos por parte del mozo, registrándose por tipo (aperitivo, plato de fondo, postre, etc.).
+RF8. Generar y enviar comandas digitalmente a cocina y bar.
+RF9. Notificar al mozo que un pedido está listo para ser retirado (cocina/bar).
+RF10. Registrar consumo del cliente por mesa y asociar a una cuenta.
+RF11. Generar cuenta detallada por mesa/cliente.
+RF12. Permitir modificación de cuenta en caso de discrepancias.
+RF13. Registrar pago con múltiples métodos (efectivo, tarjeta, cheque).
+RF14. Generar reportes de venta y estadísticas de atención.
+RF15. Gestión de roles y turnos del personal (anfitrión, mozo, cajero, cocina, bar).
+RF16. Notificación de alerta en caso de inactividad o error en los pedidos.
+RF17. Registro de clientes frecuentes y sus preferencias.
+
+
+
+Requerimientos no funcionales.
+RNF1. El sistema debe estar disponible de lunes a sábado de 9:30 a 00:00, y domingos de 11:00 a 15:00.
+RNF2. El sistema debe estar disponible en línea y permitir acceso desde tabletas o dispositivos móviles.
+RNF3. Debe contar con respaldo de datos automático cada 24 horas.
+RNF4. Tiempo de respuesta máximo de 2 segundos por acción del usuario.
+RNF5. El sistema debe contar con un plan de contingencia ante fallos (uso limitado offline o proceso manual asistido).
+RNF6. Interfaz amigable e intuitiva para usuarios sin formación técnica.
+RNF7. Acceso mediante autenticación con diferentes niveles de permisos por rol.
+RNF8. Cumplir con normativas de protección de datos personales (Ley de protección de datos chilena o RGPD si aplica).
